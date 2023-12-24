@@ -1,6 +1,6 @@
 # ITISC
 This project provides python implementation of Information Theoretical Importance Sampling Clustering and Its Relationship with Fuzzy C-Means described in the following paper:
- * [Information Theoretical Importance Sampling Clustering and Its Relationship with Fuzzy C-Means. ](https://arxiv.org/abs/2302.04421).
+ * [Information Theoretical Importance Sampling Clustering and Its Relationship with Fuzzy C-Means. ](https://ieeexplore.ieee.org/document/10372109).
 
 # Dependencies
 Python 3.8.5, MATLAB R2022a, Ubuntu 16.04
@@ -22,10 +22,11 @@ python ITISC_R.py --gif # gif result is saved in gif subfolder
 Please do not hesitate to leave us an issue if there is a problem. 
 ```latex
 @article{zhang2023importance,
-  title={Importance Sampling Deterministic Annealing for Clustering},
+  title={Information Theoretical Importance Sampling Clustering and Its Relationship with Fuzzy C-Means},
   author={Zhang, Jiangshe and Ji, Lizhen and Wang, Meng},
-  journal={arXiv preprint arXiv:2302.04421},
-  year={2023}
+  journal={IEEE Transactions on Fuzzy Systems},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
