@@ -21,7 +21,7 @@ python ITISC_R.py --gif # gif result is saved in gif subfolder
 # Citing this work 
 Please do not hesitate to leave us an issue if there is a problem. 
 ```latex
-@article{zhang2023importance,
+@article{zhang2023information,
   title={Information Theoretical Importance Sampling Clustering and Its Relationship with Fuzzy C-Means},
   author={Zhang, Jiangshe and Ji, Lizhen and Wang, Meng},
   journal={IEEE Transactions on Fuzzy Systems},
